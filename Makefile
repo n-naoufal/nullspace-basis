@@ -1,4 +1,4 @@
-include ../make.inc
+include make.inc
 
 #######################################################################
 #  This makefile creates the Fortran example interface to use the
